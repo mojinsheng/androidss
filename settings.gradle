@@ -1,0 +1,1 @@
+include ':app', ':molibrary', ':molibrarydemo', ':dididache', ':goodmedicineUI', ':myapplication', ':loopswitch'

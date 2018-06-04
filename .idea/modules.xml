@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dididache/dididache.iml" filepath="$PROJECT_DIR$/dididache/dididache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodmedicineUI/goodmedicineUI.iml" filepath="$PROJECT_DIR$/goodmedicineUI/goodmedicineUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loopswitch/loopswitch.iml" filepath="$PROJECT_DIR$/loopswitch/loopswitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/molibrary/molibrary.iml" filepath="$PROJECT_DIR$/molibrary/molibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/molibrarydemo/molibrarydemo.iml" filepath="$PROJECT_DIR$/molibrarydemo/molibrarydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+    </modules>
+  </component>
+</project>

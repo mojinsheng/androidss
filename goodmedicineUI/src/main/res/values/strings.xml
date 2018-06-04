@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Goodmedicine</string>
+    <string name="xmy_publish">发布</string>
+    <string name="xmy_index">主页</string>
+    <string name="xmy_drug">药库数据</string>
+    <string name="xmy_find">药好找</string>
+    <string name="xmy_person">我的</string>
+    <string name="xmy_search">搜索产品/厂家/代理</string>
+    <!--textView显示-->
+    <string name="xmy_text_factory">厂家直招</string>
+    <string name="xmy_text_merchants">招商产品</string>
+    <string name="xmy_text_proxy">代理商库</string>
+    <string name="xmy_text_pay">求购信息</string>
+    <string name="xmy_text_bid">招标查询</string>
+    <string name="xmy_text_activity">活动咨询</string>
+    <string name="xmy_text_recruit">招聘信息</string>
+    <string name="xmy_text_bidding">招标信息</string>
+    <string name="xmy_text_recommen">精品推荐</string>
+</resources>
