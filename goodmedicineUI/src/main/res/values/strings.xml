@@ -16,4 +16,6 @@
     <string name="xmy_text_recruit">招聘信息</string>
     <string name="xmy_text_bidding">招标信息</string>
     <string name="xmy_text_recommen">精品推荐</string>
+    <string name="xmy_text_drug">药品</string>
+    <string name="xmy_text_mechanic">器械</string>
 </resources>
